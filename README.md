@@ -1,4 +1,4 @@
-# RBI-catbot
+# RBI-chatbot
 
 ## 🧠 RBI Policy & Data Q&A System using FastAPI + LangChain + ChromaDB + Groq
 
